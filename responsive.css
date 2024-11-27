@@ -1,0 +1,166 @@
+@media all and (max-width:1350px){
+    .social-bar1{
+        width: 70%;
+    }
+}
+@media all and (max-width:980px){
+    .container{
+        width: 70%;
+    }
+    .social-bar1{
+        width: 80%;
+    }
+}
+@media all and (max-width:700px){
+    .container{
+        width: 98%;
+    }
+    .social-bar1{
+        width: 80%;
+    }
+    .social-icon1{
+        width: 60px;
+        height: 60px;
+        font-size: 35px;
+    }
+}
+@media all and (max-width:450px){
+    .container{
+        width: 98%;
+    }
+    .social-bar1{
+        width: 100%;
+    }
+    h1{
+        font-size: 30px;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media all and (max-width:1350px){
+    .social-bar2{
+        width: 70%;
+    }
+}
+@media all and (max-width:980px){
+    .container{
+        width: 70%;
+    }
+    .social-bar2{
+        width: 80%;
+    }
+}
+@media all and (max-width:700px){
+    .container{
+        width: 98%;
+    }
+    .social-bar2{
+        width: 80%;
+    }
+    .social-icon2{
+        width: 60px;
+        height: 60px;
+        font-size: 35px;
+    }
+}
+@media all and (max-width:450px){
+    .container{
+        width: 98%;
+    }
+    .social-bar2{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media all and (max-width:1350px){
+    .social-bar3{
+        width: 70%;
+    }
+}
+@media all and (max-width:980px){
+    .container{
+        width: 70%;
+    }
+    .social-bar3{
+        width: 80%;
+    }
+}
+@media all and (max-width:700px){
+    .container{
+        width: 98%;
+    }
+    .social-bar3{
+        width: 80%;
+    }
+    .social-icon3{
+        width: 60px;
+        height: 60px;
+        font-size: 35px;
+    }
+}
+@media all and (max-width:450px){
+    .container{
+        width: 98%;
+    }
+    .social-bar3{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media all and (max-width:1350px){
+    .social-bar4{
+        width: 70%;
+    }
+}
+@media all and (max-width:980px){
+    .container{
+        width: 70%;
+    }
+    .social-bar4{
+        width: 80%;
+    }
+}
+@media all and (max-width:700px){
+    .container{
+        width: 98%;
+    }
+    .social-bar4{
+        width: 80%;
+    }
+    .social-icon4{
+        width: 60px;
+        height: 60px;
+        font-size: 35px;
+    }
+}
+@media all and (max-width:450px){
+    .container{
+        width: 98%;
+    }
+    .social-bar4{
+        width: 100%;
+    }
+}
